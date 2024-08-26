@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649103716056",
+    "project_id": "jogo-da-velha-definitivo",
+    "storage_bucket": "jogo-da-velha-definitivo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649103716056:android:e549074668bb168eecb1ad",
+        "android_client_info": {
+          "package_name": "com.example.jogodavelhadefinitivo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLC_Eo9wRM5a80ltPjHNs1nhYVUuO7Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
