@@ -4,6 +4,8 @@ Este projeto é um aplicativo de Jogo da Velha desenvolvido em Kotlin, utilizand
 
 ## Funcionalidades
 
+## link para baixar : https://drive.google.com/file/d/1e2orWMpYRfjsU7e07hhOQHwtotcVe-Ja/view?usp=sharing
+
 - **Jogo Offline**: Dois jogadores podem jogar localmente no mesmo dispositivo.
 - **Jogo Online**: Dois jogadores podem jogar em dispositivos diferentes com o estado do jogo sincronizado via Firebase.
 - **Interface Intuitiva**: Design simples e fácil de usar.
